@@ -1,9 +1,4 @@
 # Multi-Threaded Web Server
-
-<img width="1440" alt="Screenshot 2024-05-20 at 9 42 15 PM" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/6dc9a095-1b70-41a7-8071-40d856ee7d32">
-<img width="1440" alt="image" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/37317a9f-fd22-4551-9fb1-55f678cf65a2">
-<img width="1440" alt="Screenshot 2024-05-20 at 9 43 56 PM" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/60b6fd3e-effa-4a8e-a77c-30b5a87fdcaf">
-
 ## Introduction
 The Multi-Threaded Web Server project is an implementation of socket programming. The goals are to be familiar with the Computer Networking, HTTP Protocol, and the OSI Layers. The requirements of this project includes:
 - [x] Develop a multi-threaded web server
@@ -13,6 +8,10 @@ The Multi-Threaded Web Server project is an implementation of socket programming
 - [x] two request methods, GET, HEAD
 - [x] three respond types, 200 OK, 400 Bad Request, 404 File Not Found
 - [x] Be able to define your own port number
+
+<img width="1440" alt="Screenshot 2024-05-20 at 9 42 15 PM" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/6dc9a095-1b70-41a7-8071-40d856ee7d32">
+<img width="1440" alt="image" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/37317a9f-fd22-4551-9fb1-55f678cf65a2">
+<img width="1440" alt="Screenshot 2024-05-20 at 9 43 56 PM" src="https://github.com/BanjiBear/Multi-Threaded-Web-Server/assets/70761188/60b6fd3e-effa-4a8e-a77c-30b5a87fdcaf">
 
 ## Installation and Execution
 The web server program can be run on any platform that supports compiling and executing C programs. Please make sure to have proper C compiler before starting the program.

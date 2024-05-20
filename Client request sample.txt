@@ -1,0 +1,17 @@
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:30:24 2021 Last modified at: 2021-03-14 21:49:12 139518.jpg 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:30:30 2021 Last modified at: 2021-03-31 14:52:28 test.txt 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:30:39 2021 Last modified at: 2021-03-31 15:33:33 READMET.txt 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:31:11 2021 Last modified at: 2019-12-27 13:47:46 746995873.jpg 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Client%20request.txt 404 Not Found
+tommy@Tommyde-MBP/127.0.0.1 %22Client%20request.txt%22 404 Not Found
+tommy@Tommyde-MBP/127.0.0.1 Client%20request.txt 404 Not Found
+tommy@Tommyde-MBP/127.0.0.1 Clientrequest.txt 404 Not Found
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:33:21 2021 Last modified at: 2021-03-31 16:15:32 server.c 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr  1 13:35:14 2021 Last modified at: 2021-04-01 13:30:08 server 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Tue Apr  6 23:15:48 2021 Last modified at: 2021-03-31 14:52:28 test.txt 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Tue Apr  6 23:16:11 2021 Last modified at: 2021-03-14 21:49:12 139518.jpg 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Tue Apr  6 23:16:19 2021 Last modified at: 2019-12-27 13:47:46 746995873.jpg 200 OK
+tommy@Tommyde-MBP/127.0.0.1 Thu Apr 22 02:16:34 2021 Last modified at: 2021-04-22 02:15:37 test.txt 200 OK
+tommy@Tommyde-MBP/127.0.0.1 favicon.ico 404 Not Found
+tommy@Tommyde-MBP/127.0.0.1 Thu Feb 10 16:41:18 2022 Last modified at: 2021-05-23 20:16:10 test.txt 200 OK
+tommy@Tommyde-MBP/127.0.0.1 favicon.ico 404 Not Found
